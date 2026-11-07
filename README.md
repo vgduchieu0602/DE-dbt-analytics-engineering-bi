@@ -135,8 +135,6 @@ dbt-analytics-engineering-bi/
 
 ## 12. Liên kết trong lộ trình
 
-- **Learning track:** 70% Data Engineering / 30% Data Analytics, theo tình huống OmniCommerce.
 - **Module:** 02 — Cloud Analytics Engineering.
 - **Project:** 06/11.
-- **Project 01:** [Linux Data Processing Server](https://github.com/vgduchieu0602/linux-data-processing-server).
-- **Trạng thái:** Planned; nội dung README sẽ cập nhật khi công nghệ, quyết định hay bằng chứng thực tế thay đổi.
+
